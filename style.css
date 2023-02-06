@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(70, 218, 126);
+}
+
+.main {
+    text-align: center;
+    font-size: large;
+    letter-spacing: .5ch;
+    margin: 30px;
+}
+
+.box {
+    height:auto;
+    width:auto;
+    margin: 40px; 
+    background-color: rgb(185, 240, 180);
+    box-shadow: rgba(241, 241, 0, 0.979) 2.95px 2.95px 2.6px;
+}
+
+.content {
+    color: rgb(0, 0, 0);
+    margin: 40px;
+    position: relative;
+    list-style:outside ;
+    line-height:5ch;
+    padding: 30px 32px;
+}
+h2 {
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    padding: 30px 32px;
+    font-size: xx-large;
+}
+
